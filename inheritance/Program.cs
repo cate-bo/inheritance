@@ -15,7 +15,8 @@
             Console.WriteLine(temp);
 
             Console.WriteLine(dawg.ToString());
-            Console.WriteLine(test.ToString());
+            Console.WriteLine(muhDawg.ToString());
+           
         }
     }
 }
